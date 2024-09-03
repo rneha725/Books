@@ -109,7 +109,16 @@ This repository contains a collection of books focused on software development, 
 
 ## Algorithms & Data Structures
 
-1. **[CLRS 4th Edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein](./AlgorithmsDataStructures/CLRS%204th%20Edition.pdf)**
-   - **Summary**: Comprehensive guide to algorithms, covering data structures and algorithms with theoretical and practical insights.
-   - **Usefulness**: Essential
+1. **CLRS 4th Edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein**
+   - **Summary**: Comprehensive guide to algorithms, covering basic data structures to complex algorithms. Provides theoretical insights and practical implementations, widely used in computer science education.
+
+## Dependency Injection
+
+1. **Dependency Injection - Steven van Deursen, Mark Seemann**
+   - **Summary**: Explains principles and patterns of dependency injection for managing object dependencies in software development. Covers different approaches with practical examples and best practices.
+
+## Software Engineering
+
+1. **The Mythical Man-Month - Frederick P. Brooks Jr.**
+   - **Summary**: Collection of essays on software engineering, exploring challenges and realities of software development projects. Introduces "Brooks' Law," offering timeless insights into managing large-scale projects.
 
