@@ -1,10 +1,6 @@
 # Books
 A collection of relevant books I found online, some are recommended and a lot are downloaded because of my greed of perspectives.
 
-# Book Collection
-
-This repository contains a collection of books focused on software development, design patterns, machine learning, and software architecture. Below is a list of the books categorized by topic, along with detailed summaries, their usefulness, and what you can learn from each.
-
 ## Design Patterns
 
 1. **[An Introduction to Design Patterns - John Vlissides](./DesignPatterns/An%20Introduction%20to%20Design%20Patterns.pdf)**
