@@ -1,6 +1,12 @@
 # Books
 A collection of relevant books I found online, some are recommended and a lot are downloaded because of my greed of perspectives.
 
+## System Design Interview:
+1. **[Compressed Grokking the Advanced System Design Interview](./Compressed%20Grokking%20the%20Advanced%20System%20Design%20Interview-compressed.pdf)**
+   - **Summary**: The material is intended to help with system design interviews by breaking down key topics such as handling large-scale systems, ensuring fault tolerance, managing high-availability, and designing efficient data storage solutions. It likely provides frameworks to systematically approach system design problems in interviews.
+   - **Usefulness**: It is valuable for software engineers preparing for technical interviews, especially at top tech companies where advanced system design skills are crucial. It offers real-world examples and step-by-step approaches to solving common system design challenges, making it easier to grasp complex concepts.
+   - **Learning Outcomes**: By studying this material, learners should expect to gain a clear understanding of how to approach system design problems, articulate trade-offs, and design systems that handle massive data and traffic loads. Topics may include designing large-scale databases, caching strategies, load balancing, and service-oriented architectures.
+
 ## Design Patterns
 
 1. **[An Introduction to Design Patterns - John Vlissides](./An%20Introduction%20to%20Design%20Patterns%20-%20John%20Vlissides.pdf)**
