@@ -3,9 +3,18 @@ A collection of relevant books I found online, some are recommended and a lot ar
 
 ## System Design Interview:
 1. **[Compressed Grokking the Advanced System Design Interview](./Compressed%20Grokking%20the%20Advanced%20System%20Design%20Interview-compressed.pdf)**
-   - **Summary**: The material is intended to help with system design interviews by breaking down key topics such as handling large-scale systems, ensuring fault tolerance, managing high-availability, and designing efficient data storage solutions. It likely provides frameworks to systematically approach system design problems in interviews.
-   - **Usefulness**: It is valuable for software engineers preparing for technical interviews, especially at top tech companies where advanced system design skills are crucial. It offers real-world examples and step-by-step approaches to solving common system design challenges, making it easier to grasp complex concepts.
-   - **Learning Outcomes**: By studying this material, learners should expect to gain a clear understanding of how to approach system design problems, articulate trade-offs, and design systems that handle massive data and traffic loads. Topics may include designing large-scale databases, caching strategies, load balancing, and service-oriented architectures.
+   - **Summary**: This book helps with system design interviews by covering key topics like scalability, fault tolerance, high availability, and data storage solutions. It offers frameworks for approaching system design systematically.
+
+   - **Usefulness**: Essential for software engineers prepping for technical interviews, especially at top tech firms, by providing real-world examples and step-by-step solutions to common system design challenges.
+
+   - **Learning Outcomes**: Readers will learn to approach system design problems, make trade-offs, and design systems for large-scale data and traffic. Topics include databases, caching, load balancing, and service architectures.
+
+2. **[An Insider Guide by Alex Xu](./System%20Design%20Interview%20An%20Insider’s%20Guide%20by%20Alex%20Xu%20Volume%202.pdf)**
+   - **Summary**: This book is designed to help with system design interviews by covering advanced topics such as building scalable systems, ensuring reliability, and optimizing performance. It provides practical frameworks for tackling complex design problems often encountered in interviews.
+
+   - **Usefulness**: Ideal for software engineers aiming to sharpen their system design skills, particularly for interviews at top tech firms. It offers concrete examples and strategies to tackle real-world system design issues.
+
+   - **Learning Outcomes**: Readers will learn to design scalable and reliable systems, manage large data, and make informed trade-offs in system architecture decisions.
 
 ## Design Patterns
 
