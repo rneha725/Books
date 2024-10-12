@@ -9,7 +9,7 @@ A collection of relevant books I found online, some are recommended and a lot ar
 
    - **Learning Outcomes**: Readers will learn to approach system design problems, make trade-offs, and design systems for large-scale data and traffic. Topics include databases, caching, load balancing, and service architectures.
 
-2. **[An Insider Guide by Alex Xu](./System%20Design%20Interview%20An%20Insider’s%20Guide%20by%20Alex%20Xu%20Volume%202.pdf)**
+2. **[An Insider Guide by Alex Xu](./System%20Design%20Interview%20An%20Insider’s%20Guide%20by%20Alex%20Xu%20Volume%201.pdf)**
    - **Summary**: This book is designed to help with system design interviews by covering advanced topics such as building scalable systems, ensuring reliability, and optimizing performance. It provides practical frameworks for tackling complex design problems often encountered in interviews.
 
    - **Usefulness**: Ideal for software engineers aiming to sharpen their system design skills, particularly for interviews at top tech firms. It offers concrete examples and strategies to tackle real-world system design issues.
