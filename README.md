@@ -5,7 +5,7 @@ A collection of relevant books I found online, some are recommended and a lot ar
 1. **[Compressed Grokking the Advanced System Design Interview](./Compressed%20Grokking%20the%20Advanced%20System%20Design%20Interview-compressed.pdf)**
    - **Summary**: Covers some of the real life systems and the internal architecture. Also, contains system design patterns
 
-2. **[An Insider Guide by Alex Xu](./System%20Design%20Interview%20An%20Insider’s%20Guide%20by%20Alex%20Xu%20Volume%201.pdf)**
+2. **[An Insider Guide by Alex Xu Volume 1](./System%20Design%20Interview%20An%20Insider’s%20Guide%20by%20Alex%20Xu%20Volume%201.pdf)** and **[An Insider Guide by Alex Xu Volume 2](./System%20Design%20Interview%20An%20Insider’s%20Guide%20by%20Alex%20Xu%20Volume%202%20(2).pdf)** 
    - **Summary**: A lot of real life use cases.
   
 2. **[ByteByteGo-Summary-Concepts-Systems(1)_compressed](./ByteByteGo-Summary-Concepts-Systems(1)_compressed.pdf)**
