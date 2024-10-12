@@ -8,8 +8,8 @@ A collection of relevant books I found online, some are recommended and a lot ar
 2. **[An Insider Guide by Alex Xu](./System%20Design%20Interview%20An%20Insider’s%20Guide%20by%20Alex%20Xu%20Volume%201.pdf)**
    - **Summary**: A lot of real life use cases.
   
-2. **[An Insider Guide by Alex Xu](./System%20Design%20Interview%20An%20Insider’s%20Guide%20by%20Alex%20Xu%20Volume%201.pdf)**
-   - **Summary**: A lot of real life use cases.
+2. **[ByteByteGo-Summary-Concepts-Systems(1)_compressed](./ByteByteGo-Summary-Concepts-Systems(1)_compressed.pdf)**
+   - **Summary**: Summary of systems and concepts.
 
 ## Design Patterns
 
