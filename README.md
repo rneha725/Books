@@ -8,8 +8,11 @@ A collection of relevant books I found online, some are recommended and a lot ar
 2. **[An Insider Guide by Alex Xu Volume 1](./System%20Design%20Interview%20An%20Insider’s%20Guide%20by%20Alex%20Xu%20Volume%201.pdf)** and **[An Insider Guide by Alex Xu Volume 2](./System%20Design%20Interview%20An%20Insider’s%20Guide%20by%20Alex%20Xu%20Volume%202%20(2).pdf)** 
    - **Summary**: A lot of real life use cases.
   
-2. **[ByteByteGo-Summary-Concepts-Systems(1)_compressed](./ByteByteGo-Summary-Concepts-Systems(1)_compressed.pdf)**
+3. **[ByteByteGo-Summary-Concepts-Systems(1)_compressed](./ByteByteGo-Summary-Concepts-Systems(1)_compressed.pdf)**
    - **Summary**: Summary of systems and concepts.
+
+4. **[The Art of Scalability by Martin L. Abbott & Michael T. Fisher](./The%20Art%20of%20Scalability%20by%20Martin%20L.%20Abbott%20&%20Michael%20T.%20Fisher.pdf)
+   - **Summary**: explores how to scale technology, teams, and processes effectively. It introduces the AKF Scale Cube for architectural scalability and emphasizes that organizational structure impacts growth. The book provides practical strategies for handling increasing demand without compromising performance or efficiency. 
 
 ## Design Patterns
 
