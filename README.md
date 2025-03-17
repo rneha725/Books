@@ -11,7 +11,7 @@ A collection of relevant books I found online, some are recommended and a lot ar
 3. **[ByteByteGo-Summary-Concepts-Systems(1)_compressed](./ByteByteGo-Summary-Concepts-Systems(1)_compressed.pdf)**
    - **Summary**: Summary of systems and concepts.
 
-4. **[The Art of Scalability by Martin L. Abbott & Michael T. Fisher](./The%20Art%20of%20Scalability%20by%20Martin%20L.%20Abbott%20&%20Michael%20T.%20Fisher.pdf)
+4. **[The Art of Scalability by Martin L. Abbott & Michael T. Fisher](./The%20Art%20of%20Scalability%20by%20Martin%20L.%20Abbott%20&%20Michael%20T.%20Fisher.pdf)**
    - **Summary**: explores how to scale technology, teams, and processes effectively. It introduces the AKF Scale Cube for architectural scalability and emphasizes that organizational structure impacts growth. The book provides practical strategies for handling increasing demand without compromising performance or efficiency. 
 
 ## Design Patterns
